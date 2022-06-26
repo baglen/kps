@@ -82,9 +82,9 @@
 							<!--Insert your DB configuration-->
 							<jdbc>
 								<driver>org.postgresql.Driver</driver>
-								<url>jdbc:postgresql://localhost:5432/kps</url>
-								<user>postgres</user>
-								<password>root</password>
+								<url></url>
+								<user></user>
+								<password></password>
 							</jdbc>
 							<generator>
 								<database>
