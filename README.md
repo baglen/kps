@@ -5,5 +5,5 @@
 ### Stack used:
   Java 11,
   Spring Security,
-  Jooq Data access layer,
+  Jooq Data Access Layer,
   PostgreSQL.
